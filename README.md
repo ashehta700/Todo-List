@@ -52,10 +52,10 @@ This project demonstrates fundamental front-end development skills, focusing on 
 
 ## 📦 Installation & Usage
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ashehta700/Todo-List.git
-
+1. Clone the repository:
+```bash
+git clone https://github.com/ashehta700/Todo-List.git
+```
  
 2- Navigate into the project folder:
 ```bash
