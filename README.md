@@ -25,10 +25,11 @@ This project demonstrates fundamental front-end development skills, focusing on 
 
 ## 📂 Project Structure
 📦 Todo-List
-┣ 📜 index.html # Main HTML file
-┣ 📜 style.css # Application styles
-┣ 📜 script.js # App functionality
-┗ 📜 README.md # Project documentation
+-  📜 index.html # Main HTML file
+-  📜 style.css # Application styles
+-  📜 script.js # App functionality
+-  📜 README.md # Project documentation
+
 
 
 
